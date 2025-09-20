@@ -62,3 +62,24 @@ A Python program where the computer picks a random number and the user tries to 
 ## Future Improvements
 - Add multiple difficulty levels
 - Let the user play again without restarting
+
+# Day 4: To-Do List App
+
+A simple command-line To-Do List app where you can add, view, and remove tasks.
+
+## Features
+- Add tasks
+- View all tasks
+- Remove tasks
+- Exit the app safely
+
+## Technologies Used
+- Python 3
+
+## How to Run
+1. Copy the code into a Python environment
+2. Run the file and follow the prompts
+
+## Future Improvements
+- Save tasks to a file so they persist after closing
+- Add due dates or priorities
