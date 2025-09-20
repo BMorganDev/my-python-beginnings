@@ -125,3 +125,24 @@ A Python program to manage contacts with name, phone number, and email address.
 ## Future Improvements
 - Save contacts to a file so they persist after closing
 - Add option to update contact info
+
+# Day 7: Calculator with Functions
+
+A Python calculator program that uses functions to perform addition, subtraction, multiplication, and division.
+
+## Features
+- Uses functions for reusable code
+- Handles division by zero
+- User chooses the operation
+
+## Technologies Used
+- Python 3
+- Functions
+
+## How to Run
+1. Copy the code into a Python environment
+2. Run the file and follow the prompts
+
+## Future Improvements
+- Allow multiple calculations without restarting
+- Add advanced operations like exponent, square root, etc.
