@@ -102,3 +102,26 @@ A Python program that prints the multiplication table of a number entered by the
 ## Future Improvements
 - Let the user choose how far the table goes
 - Add option for multiple numbers at once
+
+# Day 6: Contact Book App
+
+A Python program to manage contacts with name, phone number, and email address.
+
+## Features
+- Add new contacts
+- View all contacts
+- Search contacts by name
+- Remove contacts
+- Exit the program safely
+
+## Technologies Used
+- Python 3
+- Lists & Dictionaries
+
+## How to Run
+1. Copy the code into a Python environment
+2. Run the file and follow the menu options
+
+## Future Improvements
+- Save contacts to a file so they persist after closing
+- Add option to update contact info
