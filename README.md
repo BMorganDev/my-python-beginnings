@@ -17,6 +17,9 @@ This is my very first Python project! It prints my introduction using variables.
 - Add user input so the program asks for your name
 
 
+
+
+
   
 ## Day 2: Simple Calculator
 
