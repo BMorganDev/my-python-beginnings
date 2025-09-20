@@ -21,7 +21,7 @@ This is my very first Python project! It prints my introduction using variables.
 
 
   
-## Day 2: Simple Calculator
+# Day 2: Simple Calculator
 
 A Python program that asks the user for two numbers and performs addition, subtraction, multiplication, or division.
 
@@ -39,3 +39,26 @@ A Python program that asks the user for two numbers and performs addition, subtr
 ## Future Improvements
 - Add the ability to do multiple calculations in a row
 - Add error handling for invalid inputs
+
+
+
+
+# Day 3: Guess the Number Game
+
+A Python program where the computer picks a random number and the user tries to guess it.
+
+## Features
+- Random number generation
+- Provides hints if the guess is too high or too low
+- Counts attempts
+
+## Technologies Used
+- Python 3
+
+## How to Run
+1. Copy the code into a Python environment
+2. Run the file and follow the prompts
+
+## Future Improvements
+- Add multiple difficulty levels
+- Let the user play again without restarting
