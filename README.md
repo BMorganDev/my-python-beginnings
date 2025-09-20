@@ -83,3 +83,22 @@ A simple command-line To-Do List app where you can add, view, and remove tasks.
 ## Future Improvements
 - Save tasks to a file so they persist after closing
 - Add due dates or priorities
+
+# Day 5: Multiplication Table
+
+A Python program that prints the multiplication table of a number entered by the user.
+
+## Features
+- Prints multiplication from 1 to 10
+- User can enter any number
+
+## Technologies Used
+- Python 3
+
+## How to Run
+1. Copy the code into a Python environment
+2. Run the file and enter a number
+
+## Future Improvements
+- Let the user choose how far the table goes
+- Add option for multiple numbers at once
